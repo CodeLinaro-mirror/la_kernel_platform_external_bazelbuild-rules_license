@@ -15,6 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/bazelbuild/rules_license.git"
-    version: "1.0.0"
+    version: "f85e7d6309f28f031bf049f7d6283ce0d41d7546"
+    closest_version: "1.0.0"
   }
 }
